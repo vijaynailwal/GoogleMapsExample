@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMapsExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="loading">loading</string>
+    <string name="set_location">set_location</string>
+    <string name="drag_info">drag_info</string>
+    <string name="to_location_empty">to_location_empty</string>
+    <string name="from_current_location_empty">from_current_location_empty</string>
+    <string name="request_cancelled">request_cancelled</string>
+</resources>
