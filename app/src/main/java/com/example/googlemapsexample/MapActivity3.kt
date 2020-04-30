@@ -39,6 +39,11 @@ import java.util.*
 
 class MapActivity3 : AppCompatActivity(), OnMapReadyCallback, PermissionListener,
     GoogleMap.OnMarkerDragListener {
+
+    //drag drop marker and get location
+
+
+
     companion object {
         const val REQUEST_CHECK_SETTINGS = 43
         const val CURRENT_PLACE_AUTOCOMPLETE_REQUEST_CODE = 53
